@@ -3,7 +3,7 @@
 
 <pke>
 	<volume vnum="01">
-		<issue inum="01" month="01" year="1915">
+		<issue inum="01" month="10-11" year="1915">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -59,7 +59,7 @@
 				<page>030-032</page>
 			</entry>
 		</issue>
-	    <issue inum="02" month="02" year="1915">
+	    <issue inum="02" month="11-12" year="1915">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -121,7 +121,7 @@
 				<page>064-064</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1915">
+		<issue inum="03" month="12" year="1915">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -189,7 +189,7 @@
 				<page>095-096</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1915">
+		<issue inum="04" month="01-02" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -251,7 +251,7 @@
 				<page>127-128</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1915">
+		<issue inum="05" month="02-03" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -313,7 +313,7 @@
 				<page>159-160</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1915">
+		<issue inum="06" month="03-04" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -375,7 +375,7 @@
 				<page>191-192</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1915">
+		<issue inum="07" month="04-05" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -455,7 +455,7 @@
 				<page>224-224</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1915">
+		<issue inum="08" month="05-06" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -523,7 +523,7 @@
 				<page>255a-255a</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1915">
+		<issue inum="09" month="06-07" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -597,7 +597,7 @@
 				<page>286-286</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1915">
+		<issue inum="10" month="07-08" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -665,7 +665,7 @@
 				<page>319-320</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1915">
+		<issue inum="11" month="08-09" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -727,7 +727,7 @@
 				<page>352-352</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1915">
+		<issue inum="12" month="09-10" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -791,7 +791,7 @@
 		</issue>
 	</volume>
 	<volume vnum="02">
-		<issue inum="01" month="01" year="1916">
+		<issue inum="01" month="10-11" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -853,7 +853,7 @@
 				<page>032-032</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1916">
+		<issue inum="02" month="11-12" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -915,7 +915,7 @@
 				<page>064-064</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1916">
+		<issue inum="03" month="12" year="1916">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -965,7 +965,7 @@
 				<page>103-104</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1916">
+		<issue inum="04" month="01-02" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1033,7 +1033,7 @@
 				<page>136-136</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1916">
+		<issue inum="05" month="02-03" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1095,7 +1095,7 @@
 				<page>167-168</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1916">
+		<issue inum="06" month="03-04" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1157,7 +1157,7 @@
 				<page>198-200</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1916">
+		<issue inum="07" month="04-05" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1219,7 +1219,7 @@
 				<page>232-232</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1916">
+		<issue inum="08" month="05-06" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1281,7 +1281,7 @@
 				<page>263-264</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1916">
+		<issue inum="09" month="06-07" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1343,7 +1343,7 @@
 				<page>294-296</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1916">
+		<issue inum="10" month="07-08" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1405,7 +1405,7 @@
 				<page>328-328</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1916">
+		<issue inum="11" month="08-09" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -1479,7 +1479,7 @@
 				<page>360-360</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1916">
+		<issue inum="12" month="09-10" year="1917">
 			<entry>
 				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
@@ -24579,7 +24579,7 @@
 		</issue>
 	</volume>
 	<volume vnum="32">
-		<issue inum="01-02" month="01-02" year="1946">
+		<issue inum="01-02" month="10-11" year="1946">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -24641,7 +24641,7 @@
 				<page>021-026</page>
 			</entry>
 		</issue>
-		<issue inum="03-04" month="03-04" year="1946">
+		<issue inum="03-04" month="12" year="1946">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -24697,7 +24697,7 @@
 				<page>052-052</page>
 			</entry>
 		</issue>
-		<issue inum="05-06" month="05-06" year="1946">
+		<issue inum="05-06" month="02-03" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -24759,7 +24759,7 @@
 				<page>084-084</page>
 			</entry>
 		</issue>
-		<issue inum="07-08" month="07-08" year="1946">
+		<issue inum="07-08" month="04-05" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -24827,7 +24827,7 @@
 				<page>114-116</page>
 			</entry>
 		</issue>
-		<issue inum="09-10" month="09-10" year="1946">
+		<issue inum="09-10" month="06-07" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -24913,7 +24913,7 @@
 				<page>148-148</page>
 			</entry>
 		</issue>
-		<issue inum="11-12" month="11-12" year="1946">
+		<issue inum="11-12" month="08-09" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25025,7 +25025,7 @@
 		</issue>
 	</volume>
 	<volume vnum="33">
-		<issue inum="01-02" month="01-02" year="1947">
+		<issue inum="01-02" month="10-11" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25099,7 +25099,7 @@
 				<page>032-032</page>
 			</entry>
 		</issue>
-		<issue inum="03-04" month="03-04" year="1947">
+		<issue inum="03-04" month="12" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25173,7 +25173,7 @@
 				<page>059-064</page>
 			</entry>
 		</issue>
-		<issue inum="05-06" month="05-06" year="1947">
+		<issue inum="05-06" month="02-03" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25241,7 +25241,7 @@
 				<page>096-097</page>
 			</entry>
 		</issue>
-		<issue inum="07-08" month="07-08" year="1947">
+		<issue inum="07-08" month="04-05" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25309,7 +25309,7 @@
 				<page>127-129</page>
 			</entry>
 		</issue>
-		<issue inum="09-10" month="09-10" year="1947">
+		<issue inum="09-10" month="06-07" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25371,7 +25371,7 @@
 				<page>157-161</page>
 			</entry>
 		</issue>
-		<issue inum="11-12" month="11-12" year="1947">
+		<issue inum="11-12" month="08-09" year="1948">
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -25483,7 +25483,7 @@
 		</issue>
 	</volume>
 	<volume vnum="34">
-		<issue inum="01-02" month="01-02" year="1948">
+		<issue inum="01-02" month="10-11" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25551,7 +25551,7 @@
 				<page>030-032</page>
 			</entry>
 		</issue>
-		<issue inum="03-04" month="03-04" year="1948">
+		<issue inum="03-04" month="12" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25613,7 +25613,7 @@
 				<page>061-064</page>
 			</entry>
 		</issue>
-		<issue inum="05-06" month="05-06" year="1948">
+		<issue inum="05-06" month="02-03" year="1949">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25681,7 +25681,7 @@
 				<page>092-096</page>
 			</entry>
 		</issue>
-		<issue inum="07-08" month="07-08" year="1948">
+		<issue inum="07-08" month="05-06" year="1949">
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -25791,7 +25791,7 @@
 				<page></page>
 			</entry>
 		</issue>
-		<issue inum="09-10" month="09-10" year="1948">
+		<issue inum="09-10" month="06-07" year="1949">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25853,7 +25853,7 @@
 				<page>127-128</page>
 			</entry>
 		</issue>
-		<issue inum="11-12" month="11-12" year="1948">
+		<issue inum="11-12" month="08-09" year="1949">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -25905,7 +25905,7 @@
 		</issue>
 	</volume>
 	<volume vnum="35">
-		<issue inum="01" month="01" year="1949">
+		<issue inum="01" month="05-06" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26003,7 +26003,7 @@
 				<page>039-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1949">
+		<issue inum="02" month="06-07" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26095,7 +26095,7 @@
 				<page>077-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1949">
+		<issue inum="03" month="07-08" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26169,7 +26169,7 @@
 				<page>120-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1949">
+		<issue inum="04" month="08-09" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26231,7 +26231,7 @@
 				<page>159-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1949">
+		<issue inum="05" month="09-10" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26287,7 +26287,7 @@
 				<page>200-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1949">
+		<issue inum="06" month="10-11" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26373,7 +26373,7 @@
 				<page>240-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1949">
+		<issue inum="07" month="11-12" year="1950">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -26441,559 +26441,9 @@
 				<page>274-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1949">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="09" month="09" year="1949">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="10" month="10" year="1949">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="11" month="11" year="1949">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="12" month="12" year="1949">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
 	</volume>
 	<volume vnum="36">
-		<issue inum="01" month="01" year="1950">
+		<issue inum="01" month="01" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27085,7 +26535,7 @@
 				<page>039-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1950">
+		<issue inum="02" month="02" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27147,7 +26597,7 @@
 				<page>078-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1950">
+		<issue inum="03" month="03" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27215,7 +26665,7 @@
 				<page>113-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1950">
+		<issue inum="04" month="04" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27277,7 +26727,7 @@
 				<page>158-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1950">
+		<issue inum="05" month="05" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27369,7 +26819,7 @@
 				<page>243-252</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1950">
+		<issue inum="06" month="06" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27437,7 +26887,7 @@
 				<page>291-292</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1950">
+		<issue inum="07" month="07" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27505,7 +26955,7 @@
 				<page>323-332</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1950">
+		<issue inum="08" month="08" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27585,7 +27035,7 @@
 				<page>372-372</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1950">
+		<issue inum="09" month="09" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27671,7 +27121,7 @@
 				<page>412-412</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1950">
+		<issue inum="10" month="10" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27751,7 +27201,7 @@
 				<page>449-452</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1950">
+		<issue inum="11" month="11" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27831,7 +27281,7 @@
 				<page>490-492</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1950">
+		<issue inum="12" month="12" year="1951">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27895,7 +27345,7 @@
 		</issue>
 	</volume>
 	<volume vnum="37">
-		<issue inum="01" month="01" year="1951">
+		<issue inum="01" month="01" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -27963,7 +27413,7 @@
 				<page>040-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1951">
+		<issue inum="02" month="02" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28049,7 +27499,7 @@
 				<page>080-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1951">
+		<issue inum="03" month="03" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28135,7 +27585,7 @@
 				<page>119-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1951">
+		<issue inum="04" month="04" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28215,7 +27665,7 @@
 				<page>163-164</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1951">
+		<issue inum="05" month="05" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28283,7 +27733,7 @@
 				<page>200-204</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1951">
+		<issue inum="06" month="06" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28387,7 +27837,7 @@
 				<page>243-244</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1951">
+		<issue inum="07" month="07" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28467,7 +27917,7 @@
 				<page>281-284</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1951">
+		<issue inum="08" month="08" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28535,7 +27985,7 @@
 				<page>315-316</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1951">
+		<issue inum="09" month="09" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28597,7 +28047,7 @@
 				<page>364-364</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1951">
+		<issue inum="10" month="10" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28677,7 +28127,7 @@
 				<page>403-404</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1951">
+		<issue inum="11" month="11" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28733,7 +28183,7 @@
 				<page>437-444</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1951">
+		<issue inum="12" month="12" year="1952">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28791,7 +28241,7 @@
 		</issue>
 	</volume>
 	<volume vnum="38">
-		<issue inum="01" month="01" year="1952">
+		<issue inum="01" month="01" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28889,7 +28339,7 @@
 				<page>040-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1952">
+		<issue inum="02" month="02" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -28981,7 +28431,7 @@
 				<page>079-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1952">
+		<issue inum="03" month="03" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29049,7 +28499,7 @@
 				<page>118-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1952">
+		<issue inum="04" month="04" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29111,7 +28561,7 @@
 				<page>158-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1952">
+		<issue inum="05" month="05" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29191,7 +28641,7 @@
 				<page>200-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1952">
+		<issue inum="06" month="06" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29277,7 +28727,7 @@
 				<page>240-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1952">
+		<issue inum="07" month="07" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29357,7 +28807,7 @@
 				<page>278-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1952">
+		<issue inum="08" month="08" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29437,7 +28887,7 @@
 				<page>319-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1952">
+		<issue inum="09" month="09" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29499,7 +28949,7 @@
 				<page>357-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1952">
+		<issue inum="10" month="10" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29561,7 +29011,7 @@
 				<page>394-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1952">
+		<issue inum="11" month="11" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29623,7 +29073,7 @@
 				<page>435-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1952">
+		<issue inum="12" month="12" year="1953">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29717,7 +29167,7 @@
 		</issue>
 	</volume>
 	<volume vnum="39">
-		<issue inum="01" month="01" year="1953">
+		<issue inum="01" month="01" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29803,7 +29253,7 @@
 				<page>039-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1953">
+		<issue inum="02" month="02" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29895,7 +29345,7 @@
 				<page>079-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1953">
+		<issue inum="03" month="03" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -29969,7 +29419,7 @@
 				<page>118-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1953">
+		<issue inum="04" month="04" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30055,7 +29505,7 @@
 				<page>159-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1953">
+		<issue inum="05" month="05" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30141,7 +29591,7 @@
 				<page>200-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1953">
+		<issue inum="06" month="06" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30239,7 +29689,7 @@
 				<page>240-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1953">
+		<issue inum="07" month="07" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30319,7 +29769,7 @@
 				<page>278-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1953">
+		<issue inum="08" month="08" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30423,7 +29873,7 @@
 				<page>320-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1953">
+		<issue inum="09" month="09" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30491,7 +29941,7 @@
 				<page>360-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1953">
+		<issue inum="10" month="10" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30589,7 +30039,7 @@
 				<page>400-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1953">
+		<issue inum="11" month="11" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30675,7 +30125,7 @@
 				<page>440-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1953">
+		<issue inum="12" month="12" year="1954">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30793,7 +30243,7 @@
 		</issue>
 	</volume>
 	<volume vnum="40">
-		<issue inum="01" month="01" year="1954">
+		<issue inum="01" month="01" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30873,7 +30323,7 @@
 				<page>039-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1954">
+		<issue inum="02" month="02" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -30959,7 +30409,7 @@
 				<page>080-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1954">
+		<issue inum="03" month="03" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31027,7 +30477,7 @@
 				<page>112-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1954">
+		<issue inum="04" month="04" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31113,7 +30563,7 @@
 				<page>160-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1954">
+		<issue inum="05" month="05" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31181,7 +30631,7 @@
 				<page>196-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1954">
+		<issue inum="06" month="06" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31255,7 +30705,7 @@
 				<page>239-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1954">
+		<issue inum="07" month="07" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31317,7 +30767,7 @@
 				<page>275-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1954">
+		<issue inum="08" month="08" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31409,7 +30859,7 @@
 				<page>318-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1954">
+		<issue inum="09" month="09" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31501,7 +30951,7 @@
 				<page>360-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1954">
+		<issue inum="10" month="10" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31581,7 +31031,7 @@
 				<page>400-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1954">
+		<issue inum="11" month="11" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31679,7 +31129,7 @@
 				<page>439-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1954">
+		<issue inum="12" month="12" year="1955">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31773,7 +31223,7 @@
 		</issue>
 	</volume>
 	<volume vnum="41">
-		<issue inum="01" month="01" year="1955">
+		<issue inum="01" month="01" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31853,7 +31303,7 @@
 				<page>038-40</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1955">
+		<issue inum="02" month="02" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -31927,7 +31377,7 @@
 				<page>080-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1955">
+		<issue inum="03" month="03" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32019,7 +31469,7 @@
 				<page>120-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1955">
+		<issue inum="04" month="04" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32117,7 +31567,7 @@
 				<page>160-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1955">
+		<issue inum="05" month="05" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32215,7 +31665,7 @@
 				<page>200-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1955">
+		<issue inum="06" month="06" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32301,7 +31751,7 @@
 				<page>239-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1955">
+		<issue inum="07" month="07" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32375,7 +31825,7 @@
 				<page>278-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1955">
+		<issue inum="08" month="08" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32473,7 +31923,7 @@
 				<page>320-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1955">
+		<issue inum="09" month="09" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32553,7 +32003,7 @@
 				<page>358-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1955">
+		<issue inum="10" month="10" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32651,7 +32101,7 @@
 				<page>399-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1955">
+		<issue inum="11" month="11" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32761,7 +32211,7 @@
 				<page>440-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1955">
+		<issue inum="12" month="12" year="1956">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32867,7 +32317,7 @@
 		</issue>
 	</volume>
 	<volume vnum="42">
-		<issue inum="01" month="01" year="1956">
+		<issue inum="01" month="01" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -32953,7 +32403,7 @@
 				<page>036-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1956">
+		<issue inum="02" month="02" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33039,7 +32489,7 @@
 				<page>079-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1956">
+		<issue inum="03" month="03" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33125,7 +32575,7 @@
 				<page>116-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1956">
+		<issue inum="04" month="04" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33211,7 +32661,7 @@
 				<page>160-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1956">
+		<issue inum="05" month="05" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33303,7 +32753,7 @@
 				<page>199-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1956">
+		<issue inum="06" month="06" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33383,7 +32833,7 @@
 				<page>239-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1956">
+		<issue inum="07" month="07" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33487,7 +32937,7 @@
 				<page>279-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1956">
+		<issue inum="08" month="08" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33573,7 +33023,7 @@
 				<page>320-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1956">
+		<issue inum="09" month="09" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33677,7 +33127,7 @@
 				<page>360-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1956">
+		<issue inum="10" month="10" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33763,7 +33213,7 @@
 				<page>398-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1956">
+		<issue inum="11" month="11" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33843,7 +33293,7 @@
 				<page>438-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1956">
+		<issue inum="12" month="12" year="1957">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -33925,7 +33375,7 @@
 		</issue>
 	</volume>
 	<volume vnum="43">
-		<issue inum="01" month="01" year="1957">
+		<issue inum="01" month="01" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34023,7 +33473,7 @@
 				<page>038-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1957">
+		<issue inum="02" month="02" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34115,7 +33565,7 @@
 				<page>077-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1957">
+		<issue inum="03" month="03" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34201,7 +33651,7 @@
 				<page>117-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1957">
+		<issue inum="04" month="04" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34275,7 +33725,7 @@
 				<page>155-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1957">
+		<issue inum="05" month="05" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34361,7 +33811,7 @@
 				<page>193-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1957">
+		<issue inum="06" month="06" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34447,7 +33897,7 @@
 				<page>235-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1957">
+		<issue inum="07" month="07" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34527,7 +33977,7 @@
 				<page>276-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1957">
+		<issue inum="08" month="08" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34631,7 +34081,7 @@
 				<page>316-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1957">
+		<issue inum="09" month="09" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34711,7 +34161,7 @@
 				<page>356-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1957">
+		<issue inum="10" month="10" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34821,7 +34271,7 @@
 				<page>394-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1957">
+		<issue inum="11" month="11" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34901,7 +34351,7 @@
 				<page>436-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1957">
+		<issue inum="12" month="12" year="1958">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -34983,7 +34433,7 @@
 		</issue>
 	</volume>
 	<volume vnum="44">
-		<issue inum="01" month="01" year="1958">
+		<issue inum="01" month="01" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35063,7 +34513,7 @@
 				<page>032-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1958">
+		<issue inum="02" month="02" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35161,7 +34611,7 @@
 				<page>076-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1958">
+		<issue inum="03" month="03" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35253,7 +34703,7 @@
 				<page>114-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1958">
+		<issue inum="04" month="04" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35351,7 +34801,7 @@
 				<page>155-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1958">
+		<issue inum="05" month="05" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35437,7 +34887,7 @@
 				<page>195-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1958">
+		<issue inum="06" month="06" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35529,7 +34979,7 @@
 				<page>233-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1958">
+		<issue inum="07" month="07" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35609,7 +35059,7 @@
 				<page>274-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1958">
+		<issue inum="08" month="08" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35689,7 +35139,7 @@
 				<page>314-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1958">
+		<issue inum="09" month="09" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35775,7 +35225,7 @@
 				<page>358-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1958">
+		<issue inum="10" month="10" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35873,7 +35323,7 @@
 				<page>399-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1958">
+		<issue inum="11" month="11" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -35959,7 +35409,7 @@
 				<page>439-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1958">
+		<issue inum="12" month="12" year="1959">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36059,7 +35509,7 @@
 		</issue>
 	</volume>
 	<volume vnum="45">
-		<issue inum="01" month="01" year="1959">
+		<issue inum="01" month="01" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36151,7 +35601,7 @@
 				<page>040-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1959">
+		<issue inum="02" month="02" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36237,7 +35687,7 @@
 				<page>080-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1959">
+		<issue inum="03" month="03" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36323,7 +35773,7 @@
 				<page>120-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1959">
+		<issue inum="04" month="04" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36427,7 +35877,7 @@
 				<page>160-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1959">
+		<issue inum="05" month="05" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36531,7 +35981,7 @@
 				<page>197-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1959">
+		<issue inum="06" month="06" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36635,7 +36085,7 @@
 				<page>239-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1959">
+		<issue inum="07" month="07" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36739,7 +36189,7 @@
 				<page>279-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1959">
+		<issue inum="08" month="08" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36831,7 +36281,7 @@
 				<page>320-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1959">
+		<issue inum="09" month="09" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -36947,7 +36397,7 @@
 				<page>359-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1959">
+		<issue inum="10" month="10" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37045,7 +36495,7 @@
 				<page>399-400</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1959">
+		<issue inum="11" month="11" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37143,7 +36593,7 @@
 				<page>440-440</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1959">
+		<issue inum="12" month="12" year="1960">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37231,7 +36681,7 @@
 		</issue>
 	</volume>
 	<volume vnum="46">
-		<issue inum="01" month="01" year="1960">
+		<issue inum="01" month="01" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37353,7 +36803,7 @@
 				<page>040-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="1960">
+		<issue inum="02" month="02" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37469,7 +36919,7 @@
 				<page>080-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="1960">
+		<issue inum="03" month="03" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37567,7 +37017,7 @@
 				<page>119-120</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="1960">
+		<issue inum="04" month="04" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37683,7 +37133,7 @@
 				<page>158-160</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="1960">
+		<issue inum="05" month="05" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37787,7 +37237,7 @@
 				<page>200-200</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="1960">
+		<issue inum="06" month="06" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37879,7 +37329,7 @@
 				<page>240-240</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="1960">
+		<issue inum="07" month="07" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -37983,7 +37433,7 @@
 				<page>280-280</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="1960">
+		<issue inum="08" month="08" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38051,7 +37501,7 @@
 				<page>316-320</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="1960">
+		<issue inum="09" month="09" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38119,7 +37569,7 @@
 				<page>359-361</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1960">
+		<issue inum="10" month="10" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38187,7 +37637,7 @@
 				<page>401-401</page>
 			</entry>
 		</issue>
-		<issue inum="11" month="11" year="1960">
+		<issue inum="11" month="11" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38243,7 +37693,7 @@
 				<page>439-443</page>
 			</entry>
 		</issue>
-		<issue inum="12" month="12" year="1960">
+		<issue inum="12" month="12" year="1961">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38307,7 +37757,7 @@
 		</issue>
 	</volume>
 	<volume vnum="47">
-		<issue inum="01" month="01" year="19">
+		<issue inum="01" month="01" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38369,7 +37819,7 @@
 				<page>035-040</page>
 			</entry>
 		</issue>
-		<issue inum="02" month="02" year="19">
+		<issue inum="02" month="02" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38443,7 +37893,7 @@
 				<page>077-080</page>
 			</entry>
 		</issue>
-		<issue inum="03" month="03" year="19">
+		<issue inum="03" month="03" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38511,7 +37961,7 @@
 				<page>111-112</page>
 			</entry>
 		</issue>
-		<issue inum="04" month="04" year="19">
+		<issue inum="04" month="04" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38567,7 +38017,7 @@
 				<page>142-144</page>
 			</entry>
 		</issue>
-		<issue inum="05" month="05" year="19">
+		<issue inum="05" month="05" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38641,7 +38091,7 @@
 				<page>176-176</page>
 			</entry>
 		</issue>
-		<issue inum="06" month="06" year="19">
+		<issue inum="06" month="06" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38703,7 +38153,7 @@
 				<page>208-208</page>
 			</entry>
 		</issue>
-		<issue inum="07" month="07" year="19">
+		<issue inum="07" month="07" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38807,7 +38257,7 @@
 				<page>240-244</page>
 			</entry>
 		</issue>
-		<issue inum="08" month="08" year="19">
+		<issue inum="08" month="08" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -38905,7 +38355,7 @@
 				<page>274-278</page>
 			</entry>
 		</issue>
-		<issue inum="09" month="09" year="19">
+		<issue inum="09" month="09" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -39021,7 +38471,7 @@
 				<page>307-310</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="19">
+		<issue inum="10" month="10" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -39083,7 +38533,7 @@
 				<page>336-340</page>
 			</entry>
 		</issue>
-		<issue inum="11-12" month="11" year="19">
+		<issue inum="11-12" month="11" year="1962">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -82481,7 +81931,7 @@
 				<page>360-360</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="1996">
+		<issue inum="10-11" month="10-11" year="1996">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
@@ -93533,336 +92983,6 @@
 				<page></page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="2004">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="11" month="11" year="2004">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
-		<issue inum="12" month="12" year="2004">
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>
 	</volume>
 	<volume vnum="90">
 		<issue inum="10" month="10" year="2004">
@@ -103732,6 +102852,7 @@
 			</entry>
 		</issue>
 	</volume>
+	#volume 98 entry to be done
 	<volume vnum="99">
 		<issue inum="01" month="01" year="2013">
 			<entry>
