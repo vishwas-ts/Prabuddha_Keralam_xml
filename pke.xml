@@ -102854,7 +102854,1172 @@
 			</entry>
 		</issue>
 	</volume>
-	#volume 98 entry to be done
+	<volume vnum="98">
+		<issue inum="01" month="01" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>001-001</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>001-001</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>002-002</page>
+			</entry>
+			<entry>
+				<title>ഏകത്വം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>003-004</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദം-2</title>
+				<feature></feature>
+				<author>വിഷ്ണുനാരായണന്‍ നമ്പൂതിരി</author>
+				<page>005-005</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>006-009</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>010-013</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണന്റെ ജീവിതം</title>
+				<feature></feature>
+				<author>റോമേന്‍ റോളാങ്</author>
+				<page>014-016</page>
+			</entry>
+			<entry>
+				<title>ചിതറിയ ചിന്തകള്‍</title>
+				<feature></feature>
+				<author>വി. എം. മോഹനന്‍</author>
+				<page>017-019</page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയുടെ ചിക്കാഗോ പ്രസംഗങ്ങള്‍</title>
+				<feature></feature>
+				<author>തുളസീതീര്‍ത്ഥന്‍</author>
+				<page>020-024</page>
+			</entry>
+			<entry>
+				<title>ഷോഡശീപൂജ ഒരു അപൂര്‍വ്വ ദാമ്പത്യത്തിലെ ദിവ്യാനുഭവം</title>
+				<feature></feature>
+				<author>ഡി. മായ</author>
+				<page>025-029</page>
+			</entry>
+			<entry>
+				<title>ബഹുരൂപി വിവേകാനന്ദ</title>
+				<feature></feature>
+				<author>ചേതനാനന്ദസ്വാമികള്‍</author>
+				<page>029-033</page>
+			</entry>
+			<entry>
+				<title>ശ്രദ്ധ</title>
+				<feature></feature>
+				<author>വി. രാമന്‍കുട്ടി</author>
+				<page>034-036</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്‍ തൃശ്ശൂരില്‍</title>
+				<feature></feature>
+				<author>മൃഡാനന്ദസ്വാമികള്‍</author>
+				<page>037-039</page>
+			</entry>
+			<entry>
+				<title>തരുണരേ ഉണരുവിന്‍</title>
+				<feature></feature>
+				<author>അമിതാഭാനന്ദസ്വാമി</author>
+				<page>039-039</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>040-040</page>
+			</entry>
+		</issue>
+		<issue inum="02" month="02" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>041-041</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>041-041</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>042-042</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസന്ദേശം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>043-044</page>
+			</entry>
+			<entry>
+				<title>പരാവിദ്യ</title>
+				<feature></feature>
+				<author>വിഷ്ണുനാരായണന്‍ നമ്പൂതിരി</author>
+				<page>045-045</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>046-050</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>050-055</page>
+			</entry>
+			<entry>
+				<title>ബഹുരൂപി വിവേകാനന്ദ</title>
+				<feature></feature>
+				<author>ചേതനാനന്ദസ്വാമികള്‍</author>
+				<page>055-060</page>
+			</entry>
+			<entry>
+				<title>ഭഗവാന്‍ ശ്രീരാമകൃഷ്ണന്‍</title>
+				<feature></feature>
+				<author>ശിവാനന്ദസ്വാമികള്‍</author>
+				<page>061-067</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി ശുഭാനന്ദന്‍</title>
+				<feature></feature>
+				<author>അബ്ജജാനന്ദസ്വാമി</author>
+				<page>068-072</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമന്‍</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമികള്‍</author>
+				<page>073-076</page>
+			</entry>
+			<entry>
+				<title>മുണ്ഡകോപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>077-079</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>080-080</page>
+			</entry>
+		</issue>
+		<issue inum="03" month="03" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>081-081</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>081-081</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>082-082</page>
+			</entry>
+			<entry>
+				<title>ഉത്തിഷ്ഠത! ജാഗ്രത!</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>083-084</page>
+			</entry>
+			<entry>
+				<title>അമ്മയും മകനും</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാട്</author>
+				<page>085-085</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>086-092</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>092-097</page>
+			</entry>
+			<entry>
+				<title>ബഹുരൂപി വിവേകാനന്ദ</title>
+				<feature></feature>
+				<author>ചേതനാനന്ദസ്വാമികള്‍</author>
+				<page>098-103</page>
+			</entry>
+			<entry>
+				<title>ഹിന്ദുമതഗ്രന്ഥവും മതസ്ഥാപകനും</title>
+				<feature></feature>
+				<author>ആര്യാട് കൃഷ്ണന്‍കുട്ടി </author>
+				<page>103-103</page>
+			</entry>
+			<entry>
+				<title>പുണ്യപഥങ്ങളിലൂടെ</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>104-110</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി ശുഭാനന്ദന്‍</title>
+				<feature></feature>
+				<author>അബ്ജജാനന്ദസ്വാമി</author>
+				<page>111-116</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമന്‍</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമികള്‍</author>
+				<page>117-119</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>120-120</page>
+			</entry>
+		</issue>
+		<issue inum="04" month="04" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>121-121</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>121-121</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>122-122</page>
+			</entry>
+			<entry>
+				<title>അദ്വൈതത്തിന്റെ പ്രവാചകന്‍</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>123-124</page>
+			</entry>
+			<entry>
+				<title>ശ്രീപദം</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാട്</author>
+				<page>125-125</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>126-130</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>130-136</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി ശുഭാനന്ദന്‍</title>
+				<feature></feature>
+				<author>അബ്ജജാനന്ദസ്വാമി</author>
+				<page>137-138</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി പരമാനന്ദന്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>138-142</page>
+			</entry>
+			<entry>
+				<title>പുണ്യപഥങ്ങളിലൂടെ</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>143-149</page>
+			</entry>
+			<entry>
+				<title>മുണ്ഡകോപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>150-151</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമന്‍</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമികള്‍</author>
+				<page>152-154</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണന്റെ ജീവിതം</title>
+				<feature></feature>
+				<author>റോമേന്‍ റോളാങ്</author>
+				<page>155-158</page>
+			</entry>
+			<entry>
+				<title>വചനാമൃതവാതായനത്തിലെ സൂത്രവാക്യം</title>
+				<feature></feature>
+				<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				<page>159-159</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>160-160</page>
+			</entry>
+		</issue>
+		<issue inum="05" month="05" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>161-161</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>161-161</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>162-162</page>
+			</entry>
+			<entry>
+				<title>ഈശ്വരപ്രേമം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>163-164</page>
+			</entry>
+			<entry>
+				<title>ഭക്തിദ്വേഷവും ജ്ഞാനഭീതിയും</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാട്</author>
+				<page>165-165</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>166-171</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി പരമാനന്ദന്‍</title>
+				<feature></feature>
+				<author>അബ്ജജാനന്ദസ്വാമി</author>
+				<page>172-175</page>
+			</entry>
+			<entry>
+				<title>വേദചിന്തകള്‍</title>
+				<feature></feature>
+				<author>രവീന്ദ്രന്‍</author>
+				<page>176-181</page>
+			</entry>
+			<entry>
+				<title>യോഗാനുഭൂതിയുടെ മധുരനാദം</title>
+				<feature></feature>
+				<author>ഒ. എന്‍. വി. കുറുപ്പ്</author>
+				<page>182-183</page>
+			</entry>
+			<entry>
+				<title>അഭിഷേകവിഘ്നം</title>
+				<feature></feature>
+				<author>കെ. ശിവരാമന്‍നായര്‍</author>
+				<page>184-184</page>
+			</entry>
+			<entry>
+				<title>ഒരു ഗീതാശ്ലോക വ്യാഖ്യാനം</title>
+				<feature></feature>
+				<author>വി. എം. മോഹനന്‍</author>
+				<page>185-188</page>
+			</entry>
+			<entry>
+				<title>മുണ്ഡകോപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>189-191</page>
+			</entry>
+			<entry>
+				<title>എച്ചിലാകാത്തതിങ്ങൊന്നുമാത്രം</title>
+				<feature></feature>
+				<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				<page>192-192</page>
+			</entry>
+			<entry>
+				<title>ഗ്രന്ഥപരിചയം</title>
+				<feature></feature>
+				<author></author>
+				<page>193-194</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമന്‍</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമികള്‍</author>
+				<page>195-199</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>200-200</page>
+			</entry>
+		</issue>
+		<issue inum="06" month="06" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>201-201</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>201-201</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>202-202</page>
+			</entry>
+			<entry>
+				<title>പരാശക്തി</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>203-204</page>
+			</entry>
+			<entry>
+				<title>ഗുരുപൂര്‍ണിമ</title>
+				<feature></feature>
+				<author>ബാലാമണിയമ്മ</author>
+				<page>205-205</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>206-210</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>210-216</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>216-220</page>
+			</entry>
+			<entry>
+				<title>ആചാരനിഷ്ഠ കോടതിമുറിയില്‍</title>
+				<feature></feature>
+				<author>പ്രവ്രാജിക അജയപ്രാണ</author>
+				<page>221-225</page>
+			</entry>
+			<entry>
+				<title>അഹന്താരഹിതര്‍ ആത്മാനുഭൂതിയില്‍</title>
+				<feature></feature>
+				<author>സ്വാമി ശാന്താനന്ദഗിരി</author>
+				<page>226-228</page>
+			</entry>
+			<entry>
+				<title>പൂര്‍ണചന്ദ്രഘോഷ്</title>
+				<feature></feature>
+				<author>ചേതനാനന്ദസ്വാമികള്‍</author>
+				<page>229-232</page>
+			</entry>
+			<entry>
+				<title>പാനപാത്രം</title>
+				<feature></feature>
+				<author></author>
+				<page>233-233</page>
+			</entry>
+			<entry>
+				<title>മാണ്ഡൂക്യ ഉപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>234-235</page>
+			</entry>
+			<entry>
+				<title>ഗ്രന്ഥപരിചയം</title>
+				<feature></feature>
+				<author></author>
+				<page>236-236</page>
+			</entry>
+			<entry>
+				<title>ഒന്നു മായ്ച്ചുകളഞ്ഞീടില്‍</title>
+				<feature></feature>
+				<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				<page>237-237</page>
+			</entry>
+			<entry>
+				<title>കുട്ടികളില്‍ ധാര്‍മ്മികമൂല്യങ്ങള്‍ വളര്‍ത്തിയെടുക്കുന്നതില്‍ രക്ഷിതാക്കളുടെ പങ്ക്</title>
+				<feature></feature>
+				<author>റാണി രാമനുണ്ണി</author>
+				<page>238-239</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>240-240</page>
+			</entry>
+		</issue>
+		<issue inum="07" month="07" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>241-241</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>241-241</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>242-242</page>
+			</entry>
+			<entry>
+				<title>ധാര്‍മ്മികമൂല്യങ്ങള്‍</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>243-244</page>
+			</entry>
+			<entry>
+				<title>മുഖചിത്രം</title>
+				<feature></feature>
+				<author></author>
+				<page>245-245</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>246-251</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>252-258</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>259-263</page>
+			</entry>
+			<entry>
+				<title>പുത്രലാഭം</title>
+				<feature></feature>
+				<author>വിഷ്ണുനാരായണന്‍ നമ്പൂതിരി</author>
+				<page>264-264</page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ബ്രഹ്മാനന്ദസ്വാമികള്‍</title>
+				<feature></feature>
+				<author>യതീശ്വരാനന്ദസ്വാമികള്‍</author>
+				<page>265-269</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണസന്നിധിയില്‍ പ്രഥമദര്‍ശനം</title>
+				<feature></feature>
+				<author>ഹരിഹര്‍സന്ന്യാല്‍</author>
+				<page>270-272</page>
+			</entry>
+			<entry>
+				<title>നാസ്ത്യനൃത്ര തദന്വിഹ</title>
+				<feature></feature>
+				<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				<page>273-273</page>
+			</entry>
+			<entry>
+				<title>കുട്ടികളില്‍ ധാര്‍മ്മികമൂല്യങ്ങള്‍ വളര്‍ത്തിയെടുക്കുന്നതില്‍ രക്ഷിതാക്കളുടെ പങ്ക്</title>
+				<feature></feature>
+				<author>വി. എം. മോഹനന്‍</author>
+				<page>274-277</page>
+			</entry>
+			<entry>
+				<title>മാണ്ഡൂക്യ ഉപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>277-280</page>
+			</entry>
+		</issue>
+		<issue inum="08" month="08" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>281-281</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>281-281</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>282-282</page>
+			</entry>
+			<entry>
+				<title>ദൈവത്തിന്റെ സ്വന്തം നാട്</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>283-284</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദഃ</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാട്</author>
+				<page>285-285</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>286-292</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>292-298</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>298-302</page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് ബ്രഹ്മാനന്ദസ്വാമികള്‍</title>
+				<feature></feature>
+				<author>യതീശ്വരാനന്ദസ്വാമികള്‍</author>
+				<page>303-307</page>
+			</entry>
+			<entry>
+				<title>പൂര്‍ണചന്ദ്രഘോഷ്</title>
+				<feature></feature>
+				<author>ചേതനാനന്ദസ്വാമികള്‍</author>
+				<page>307-310</page>
+			</entry>
+			<entry>
+				<title>പ്രാര്‍ത്ഥന ഒരു ആദ്ധ്യാത്മസാധന</title>
+				<feature></feature>
+				<author>ഭജനാനന്ദസ്വാമികള്‍</author>
+				<page>311-316</page>
+			</entry>
+			<entry>
+				<title>മാണ്ഡൂക്യ ഉപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>316-318</page>
+			</entry>
+			<entry>
+				<title>ബ്രഹ്മാനന്ദസ്തുതി</title>
+				<feature></feature>
+				<author>പ്രാണചൈതന്യ</author>
+				<page>318-318</page>
+			</entry>
+			<entry>
+				<title>ശ്രീ ശങ്കരാചാര്യ</title>
+				<feature></feature>
+				<author>രാധാമണി പരമേശ്വരന്‍</author>
+				<page>319-319</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>320-320</page>
+			</entry>
+		</issue>
+		<issue inum="09" month="09" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>321-321</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>321-321</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>322-322</page>
+			</entry>
+			<entry>
+				<title>ആത്മവിശ്വാസം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>323-324</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണധ്യാനം</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ ഉണ്ണിനമ്പൂതിരിപ്പാട്</author>
+				<page>325-325</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>326-331</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>331-335</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>335-339</page>
+			</entry>
+			<entry>
+				<title>പ്രാര്‍ത്ഥന ഒരു ആദ്ധ്യാത്മസാധന</title>
+				<feature></feature>
+				<author>ഭജനാനന്ദസ്വാമികള്‍</author>
+				<page>340-343</page>
+			</entry>
+			<entry>
+				<title>കുട്ടികളില്‍ ധാര്‍മ്മികമൂല്യങ്ങള്‍ വളര്‍ത്തിയെടുക്കുന്നതില്‍ രക്ഷിതാക്കളുടെ പങ്ക്</title>
+				<feature></feature>
+				<author>പ്രസന്ന ബാലകൃഷ്ണന്‍</author>
+				<page>344-347</page>
+			</entry>
+			<entry>
+				<title>തിരുമലയുടെ ഹൃദ്യത</title>
+				<feature></feature>
+				<author>ശിവേശചൈതന്യ</author>
+				<page>347-351</page>
+			</entry>
+			<entry>
+				<title>സമ്പൂര്‍ണ്ണ സമര്‍പ്പണം</title>
+				<feature></feature>
+				<author>പ്രവ്രാജിക അജയപ്രാണ</author>
+				<page>351-355</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദപാറ</title>
+				<feature></feature>
+				<author>തട്ടയില്‍ ഗോപാലകൃഷ്ണന്‍</author>
+				<page>356-356</page>
+			</entry>
+			<entry>
+				<title>ഗ്രന്ഥപരിചയം</title>
+				<feature></feature>
+				<author></author>
+				<page>357-358</page>
+			</entry>
+			<entry>
+				<title>ശിവം</title>
+				<feature></feature>
+				<author>അഴിയൂര്‍ ബാലകൃഷ്ണക്കുറുപ്പ്</author>
+				<page>359-359</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>360-360</page>
+			</entry>
+		</issue>
+		<issue inum="10" month="10" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>361-361</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>361-361</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>362-362</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദനും ഭാരതീയയുവാക്കളും</title>
+				<feature></feature>
+				<author>സ്വാമി രംഗനാഥാനന്ദജി മഹാരാജ്</author>
+				<page>363-365</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്‍</title>
+				<feature></feature>
+				<author>മൃഡാനന്ദസ്വാമികള്‍</author>
+				<page>366-370</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസ്വാമികളുടെ വിശ്വമതാദര്‍ശം</title>
+				<feature></feature>
+				<author>പ്രവ്രാജിക അജയപ്രാണ</author>
+				<page>371-378</page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് വിവേകാനന്ദസ്വാമിജിയുടെ  വിദേശ പര്യടനത്തിന്റെ പ്രാരഭം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>379-385</page>
+			</entry>
+			<entry>
+				<title>ഭാരതത്തിന്റെ വീരപുത്രന്‍</title>
+				<feature></feature>
+				<author>പ്രവ്രാജികാ തപപ്രാണാ</author>
+				<page>385-387</page>
+			</entry>
+			<entry>
+				<title>അളസിംഗ പെരുമാള്‍ സ്വാമി വിവേകാനന്ദന്റെ പ്രിയ ശിഷ്യന്‍</title>
+				<feature></feature>
+				<author>എസ്. രാധാകൃഷ്ണന്‍</author>
+				<page>388-393</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദപഞ്ചകം</title>
+				<feature></feature>
+				<author>രാമകൃഷ്ണാനന്ദസ്വാമികള്‍</author>
+				<page>394-394</page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയും വ്യക്തിത്വവും</title>
+				<feature></feature>
+				<author>പ്രവ്രാജികാ ചേതനപ്രാണാ</author>
+				<page>395-397</page>
+			</entry>
+			<entry>
+				<title>യുവാക്കള്‍ക്ക് സ്വാമി വിവേകാനന്ദന്റെ സന്ദേശം</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>398-401</page>
+			</entry>
+			<entry>
+				<title>ഭാരതം മന്ത്രാക്ഷരം ഭാരതാംബയുടെ പാദമുദ്രകള്‍</title>
+				<feature></feature>
+				<author>ബി. സുലോചനാനായര്‍</author>
+				<page>401-407</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസന്ദേശം മനുഷ്യനിലെ ദിവ്യത്വം</title>
+				<feature></feature>
+				<author>എന്‍. ലക്ഷ്മികുട്ടി</author>
+				<page>408-411</page>
+			</entry>
+			<entry>
+				<title>നൗമി ഗുരു വിവേകാനന്ദ</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>412-417</page>
+			</entry>
+			<entry>
+				<title>പരസ്യം</title>
+				<feature></feature>
+				<author></author>
+				<page>418-418</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദസന്ദേശം</title>
+				<feature></feature>
+				<author>എ. പി. ജെ. അബ്ദുള്‍ കലാം</author>
+				<page>419-424</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദന്‍ അസ്തമിക്കാത്ത സൂര്യതേജസ്സ്</title>
+				<feature></feature>
+				<author>വി. രാമന്‍കുട്ടി</author>
+				<page>425-428</page>
+			</entry>
+			<entry>
+				<title>ഭാരതത്തിന്റെ പ്രശ്നങ്ങളും പരിഹാരമാര്‍ഗ്ഗങ്ങളും സ്വാമിജിയുടെ ദൃഷ്ടിയില്‍</title>
+				<feature></feature>
+				<author>തുളസീതീര്‍ത്ഥന്‍</author>
+				<page>429-433</page>
+			</entry>
+			<entry>
+				<title>സ്വരൂപസിദ്ധിയുടെ സൂര്യാനുഭവം</title>
+				<feature></feature>
+				<author>പി. ആര്‍. ഹരികുമാര്‍</author>
+				<page>434-439</page>
+			</entry>
+			<entry>
+				<title>നവോത്ഥാന കേരളവും സ്വാമി വിവേകാനന്ദനും</title>
+				<feature></feature>
+				<author>ശിവേശചൈതന്യ</author>
+				<page>439-444</page>
+			</entry>
+			<entry>
+				<title>പാരിസ്ഥിതികനൈതികത വിവേകാനന്ദദര്‍ശനത്തില്‍</title>
+				<feature></feature>
+				<author>പി. ജെ. സണ്ണി</author>
+				<page>445-453</page>
+			</entry>
+			<entry>
+				<title>പരസ്യം</title>
+				<feature></feature>
+				<author></author>
+				<page>454-455</page>
+			</entry>
+			<entry>
+				<title>ശ്രീമദ് വിവേകാനന്ദ സാര്‍ദ്ധശതി മഹായജ്ഞം</title>
+				<feature></feature>
+				<author>എം. ലക്ഷ്മികുമാരി</author>
+				<page>456-460</page>
+			</entry>
+		</issue>
+		<issue inum="11" month="11" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>461-461</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>461-461</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>462-462</page>
+			</entry>
+			<entry>
+				<title>ഷഡ്ദോഷങ്ങള്‍</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>463-464</page>
+			</entry>
+			<entry>
+				<title>തഥാഗതകഥാമൃതം</title>
+				<feature></feature>
+				<author>പോള്‍ കാരൂസ്</author>
+				<page>465-465</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>466-471</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>472-476</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>477-480</page>
+			</entry>
+			<entry>
+				<title>അനുഗൃഹീതന്‍</title>
+				<feature></feature>
+				<author>പ്രവ്രാജിക അജയപ്രാണ</author>
+				<page>481-484</page>
+			</entry>
+			<entry>
+				<title>ആത്മബന്ധു</title>
+				<feature></feature>
+				<author>ബി. സുലോചനാനായര്‍</author>
+				<page>484-484</page>
+			</entry>
+			<entry>
+				<title>കുട്ടികളില്‍ ധാര്‍മ്മികമൂല്യങ്ങള്‍ വളര്‍ത്തിയെടുക്കുന്നതില്‍ രക്ഷിതാക്കളുടെ പങ്ക്</title>
+				<feature></feature>
+				<author>ലേഖ ശര്‍മ്മ</author>
+				<page>485-489</page>
+			</entry>
+			<entry>
+				<title>ഭാരതത്തിന്റെ ഭാവി സ്വാമിജിയുടെ ദൃഷ്ടിയില്‍</title>
+				<feature></feature>
+				<author>ടി. വി. മുരളീവല്ലഭന്‍</author>
+				<page>490-493</page>
+			</entry>
+			<entry>
+				<title>പ്രശ്നോപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>494-495</page>
+			</entry>
+			<entry>
+				<title>വിത്തസ്യ ദാസാഃ സര്‍വ്വേപി</title>
+				<feature></feature>
+				<author>തുളസീതീര്‍ത്ഥന്‍</author>
+				<page>496-498</page>
+			</entry>
+			<entry>
+				<title>മന്ത്രദീക്ഷ</title>
+				<feature></feature>
+				<author>തട്ടയില്‍ ഗോപാലകൃഷ്ണന്‍</author>
+				<page>499-499</page>
+			</entry>
+			<entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>500-500</page>
+			</entry>
+		</issue>
+		<issue inum="12" month="12" year="2012">
+			<entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>501-501</page>
+			</entry>
+			<entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>501-501</page>
+			</entry>
+			<entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>502-502</page>
+			</entry>
+			<entry>
+				<title>ഭക്തി</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>503-504</page>
+			</entry>
+			<entry>
+				<title>പട്ടിണി കിടന്ന പട്ടി</title>
+				<feature></feature>
+				<author>പോള്‍ കാരൂസ്</author>
+				<page>505-505</page>
+			</entry>
+			<entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>രംഗനാഥാനന്ദസ്വാമികള്‍</author>
+				<page>506-512</page>
+			</entry>
+			<entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമികള്‍</author>
+				<page>513-516</page>
+			</entry>
+			<entry>
+				<title>സൗന്ദര്യലഹരി</title>
+				<feature></feature>
+				<author></author>
+				<page>517-522</page>
+			</entry>
+			<entry>
+				<title>ഭഗവാനും ഭക്തനും</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>523-526</page>
+			</entry>
+			<entry>
+				<title>ജാനശ്രുതിയും രൈക്വനും</title>
+				<feature></feature>
+				<author>കുഞ്ഞിക്കുട്ടന്‍ ഇളയത്</author>
+				<page>527-529</page>
+			</entry>
+			<entry>
+				<title>പാണ്ഡിത്യഡിംഡിമം</title>
+				<feature></feature>
+				<author>എ. ഇ. രാമചന്ദ്രക്കുറുപ്പ്</author>
+				<page>529-530</page>
+			</entry>
+			<entry>
+				<title>കുട്ടികളില്‍ ധാര്‍മ്മികമൂല്യങ്ങള്‍ വളര്‍ത്തിയെടുക്കുന്നതില്‍ രക്ഷിതാക്കളുടെ പങ്ക്</title>
+				<feature></feature>
+				<author>ഓട്ടൂര്‍ അച്ചുതന്‍കുട്ടി</author>
+				<page>531-533</page>
+			</entry>
+			<entry>
+				<title>പ്രശ്നോപനിഷത്ത്</title>
+				<feature></feature>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാരിയര്‍</author>
+				<page>533-536</page>
+			</entry>
+			<entry>
+				<title>ഗ്രന്ഥപരിചയം</title>
+				<feature></feature>
+				<author></author>
+				<page>537-539</page>
+			</entry>
+			<entry>
+				<title></title>
+				<feature></feature>
+				<author></author>
+				<page>540-540</page>
+			</entry>
+		</issue>
+	</volume> 
 	<volume vnum="99">
 		<issue inum="01" month="01" year="2013">
 			<entry>
