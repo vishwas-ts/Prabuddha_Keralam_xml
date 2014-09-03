@@ -14,7 +14,7 @@
 				<title>ശ്രീ രാമകൃഷ്ണപരമ്പരയുടെ മുഖ്യോദ്ദേശ്യം</title>
 				<feature></feature>
 				<author></author>
-				<page>05-08</page>
+				<page>005-008</page>
 			</entry>
 			<entry>
 				<title>ശ്രീമല്‍ വിവേകാനന്ദസ്വാമികളുടെ സംഭാഷണങ്ങള്‍</title>
@@ -5152,7 +5152,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue> #Data not entered
 		<issue inum="02" month="11-12" year="1921">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -5883,7 +5883,7 @@
 				<page>420-420</page>
 			</entry>
 		</issue>
-	</volume> #issue 01 missing
+	</volume> #Data not entered for issue 01
 	<volume vnum="08">
 		<issue inum="01" month="10-11" year="1922">
 			<entry>
@@ -14726,7 +14726,7 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="19">  #issue 12 missing
+	<volume vnum="19">  
 		<issue inum="01" month="10-11" year="1933">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -15602,8 +15602,8 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
-	</volume>  #issue 12 missing
+		</issue> #Data not entered
+	</volume>  #Data not entered for issue 12
 	<volume vnum="20">
 		<issue inum="01" month="10-11" year="1934">
 			<entry>
@@ -19272,7 +19272,7 @@
 			</entry>
 		</issue>
 	</volume>
-	<volume vnum="24"> #issue 10 missing
+	<volume vnum="24"> 
 		<issue inum="01" month="10-11" year="1938">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -20108,7 +20108,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue>#Data not entered
 		<issue inum="11" month="08-09" year="1939">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -20293,8 +20293,8 @@
 				<page>441-442</page>
 			</entry>
 		</issue>
-	</volume> #issue 10 missing
-	<volume vnum="25"> #issue 03 missing
+	</volume> #Data not entered for issue 10
+	<volume vnum="25"> 
 		<issue inum="01" month="10-11" year="1939">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -20600,7 +20600,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue> #Data not entered
 		<issue inum="04" month="01-02" year="1940">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -21309,7 +21309,7 @@
 				<page>431-432</page>
 			</entry>
 		</issue>
-	</volume> #issue 03 missing
+	</volume> #Data not entered for issue 3
 	<volume vnum="26">
 		<issue inum="01" month="10-11" year="1940">
 			<entry>
@@ -25022,8 +25022,8 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
-	</volume>
+		</issue> #Check data entry
+	</volume>#Check issue 11-12 data entry
 	<volume vnum="33"> #issue 11-12 missing
 		<issue inum="01-02" month="10-12" year="1947">
 			<entry>
@@ -25372,7 +25372,6 @@
 			</entry>
 		</issue>
 		<issue inum="11-12" month="08-09" year="1948">
-			#Issue Missing
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -25481,9 +25480,9 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
-	</volume> #issue 11-12 missing
-	<volume vnum="34">  #issue 07-08 Missing
+		</issue>#Data not entered 
+	</volume> #Data not entered for issue 11-12
+	<volume vnum="34">  
 		<issue inum="01-02" month="10-12" year="1948">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -25683,7 +25682,6 @@
 			</entry>
 		</issue>
 		<issue inum="07-08" month="04-06" year="1949">
-			
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -25792,7 +25790,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue>#Data not entered 
 		<issue inum="09-10" month="06-08" year="1949">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -25905,7 +25903,7 @@
 				<page>159-160</page>
 			</entry>
 		</issue>
-	</volume> #issue 07-08 Missing
+	</volume> #Data not entered for issue 07-08
 	<volume vnum="35">
 		<issue inum="01" month="05-06" year="1950">
 			<entry>
@@ -92984,8 +92982,8 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
-	</volume>
+		</issue>#Check data entry
+	</volume> #Check issue 09 data entry
 	<volume vnum="90">
 		<issue inum="10" month="10" year="2004">
 			<entry>
@@ -104861,7 +104859,7 @@
 				<page>420-420</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="2013">
+		<issue inum="10" month="10" year="2013"> 
 			<entry>
 				<title></title>
 				<feature></feature>
@@ -104970,7 +104968,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue> #Data Not Entered
 		<issue inum="11" month="11" year="2013">
 			<entry>
 				<title></title>
@@ -105080,7 +105078,7 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
+		</issue> #Data not entered
 		<issue inum="12" month="12" year="2013">
 			<entry>
 				<title></title>
@@ -105190,6 +105188,6 @@
 				<author></author>
 				<page></page>
 			</entry>
-		</issue>
-	</volume>
+		</issue> #Data not entered
+	</volume> #Data not entered for issues 10, 11 & 12
 </pke>
