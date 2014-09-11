@@ -5075,84 +5075,78 @@
 	<volume vnum="07">
 		<issue inum="01" month="10-11" year="1921">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധ കേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>001-001</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണോപദേശം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>001-001</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഒരു അപേക്ഷ</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>002-002</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണദേവന്റെ തിരുവായ്മൊഴി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>003-005</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യതമത തതപഥ</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>005-007</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ദ്വാരകയും മറ്റുചില തീര്‍ത്ഥസ്ഥലങ്ങളും ദര്‍ശിച്ചത്</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ശ്രീ അതുലകൃഷ്ണദാസന്‍</author>
+				<page>008-016</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമദ്  വിവേകാനന്ദസ്വാമികളുടെ കത്ത്</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>017-019</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഗീതാതത്വം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ശ്രീമത് സാരദാനന്ദസ്വാമി</author>
+				<page>019-024</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഉജ്ജയിനിയിലെ പൂര്‍ണ്ണകുംഭമഹാമേല</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>024-027</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമദ് വിവേകാനന്ദസ്വാമികളുടെജീവചരിത്രം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>027-030</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>നര്‍മദാഷ്ടകം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>031-033</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>കന്നിലക്കത്തിലെ ശുദ്ധിപത്രം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>033-033</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue> #Data not entered
+		</issue>
 		<issue inum="02" month="11-12" year="1921">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -5883,7 +5877,7 @@
 				<page>420-420</page>
 			</entry>
 		</issue>
-	</volume> #Data not entered for issue 01
+	</volume> 
 	<volume vnum="08">
 		<issue inum="01" month="10-11" year="1922">
 			<entry>
@@ -13105,7 +13099,7 @@
 				<page>001-001</page>
 			</entry>
 			<entry>
-				<title>ഉത്തിഷ്ഠത!ജാഗ്രത!പ്രാപ്യവരാന്‍ നിബോധത</title>
+				<title>ഉത്തിഷ്ഠത!ജാഗ്രത!പ്രാപ്യവരാന്‍ നിബോധത!</title>
 				<feature></feature>
 				<author></author>
 				<page>001-001</page>
@@ -13159,7 +13153,7 @@
 				<page>033-034</page>
 			</entry>
 			<entry>
-				<title>ശ്രീ രാമകൃണഗാനാഞ്ജലി</title>
+				<title>ശ്രീ രാമകൃഷ്ണഗാനാഞ്ജലി</title>
 				<feature></feature>
 				<author></author>
 				<page>034-035</page>
@@ -13977,6 +13971,30 @@
 				<feature></feature>
 				<author></author>
 				<page>060-065</page>
+			</entry>
+			<entry>
+				<title>നേരമില്ല</title>
+				<feature></feature>
+				<author></author>
+				<page>066-066</page>
+			</entry>
+			<entry>
+				<title>പ്രബോധസുധാകരം</title>
+				<feature></feature>
+				<author>ശ്രീ ശങ്കരാചാര്യസ്വാമികള്‍</author>
+				<page>067-070</page>
+			</entry>
+			<entry>
+				<title>പരമഹംസസ്തവം</title>
+				<feature></feature>
+				<author></author>
+				<page>071-071</page>
+			</entry>
+			<entry>
+				<title>പുസ്തകാഭിപ്രായം</title>
+				<feature></feature>
+				<author></author>
+				<page>072-072</page>
 			</entry>
 		</issue>
 		<issue inum="03" month="12" year="1932">
@@ -14972,7 +14990,31 @@
 				<title>ശ്രീമത് വിവേകാനന്ദസ്വാമികളുടെ ഈശ്വരപ്രേരിതമായ പ്രസ്താവങ്ങള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page>132-140</page>
+				<page>132-135</page>
+			</entry>
+			<entry>
+				<title>പ്രണാമാഷ്ടകം</title>
+				<feature></feature>
+				<author></author>
+				<page>136-136</page>
+			</entry>
+			<entry>
+				<title>നിത്യസുഖം</title>
+				<feature></feature>
+				<author></author>
+				<page>137-140</page>
+			</entry>
+			<entry>
+				<title>ജന്മദിനാഘോഷങ്ങള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>141-141</page>
+			</entry>
+			<entry>
+				<title>ഭൂകമ്പദുരിതാനിവാരണഫണ്ട്</title>
+				<feature></feature>
+				<author></author>
+				<page>142-142</page>
 			</entry>
 		</issue>
 		<issue inum="05" month="02-03" year="1934">
@@ -15495,115 +15537,73 @@
 		</issue>
 		<issue inum="12" month="09-10" year="1934">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>405-405</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഉത്തിഷ്ഠത!ജാഗ്രത!പ്രാപ്യവരാന്‍!നിബോധത!! പ്രണാമം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>405-405</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ മാതൃദേവിയുടെ ഉപദേശാമൃതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>406-406</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണദേവന്റെ തിരുവായ്മൊഴി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>407-415</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>നരേന്ദ്രനാഥന്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>416-418</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ദിവ്യഭാവലഹരി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>419-421</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഉത്തമഭക്തി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>421-422</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമത് വിവേകാനന്ദസ്വാമികളുടെ യൂറോപ്പുയാത്ര</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>422-424</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമത് പ്രേമാനന്ദസ്വാമികളുടെ ലേഖനങ്ങള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>425-427</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമത് ഭഗവത്ഗീത</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>427-429</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പുസ്തകാഭിപ്രായം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>429-436</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue> #Data not entered
-	</volume>  #Data not entered for issue 12
+		</issue>
+	</volume>
 	<volume vnum="20">
 		<issue inum="01" month="10-11" year="1934">
 			<entry>
@@ -20001,114 +20001,96 @@
 		</issue>
 		<issue inum="10" month="07-08" year="1939">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>325-325</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പ്രണാമം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>325-325</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പ്രേമാനന്ദസ്വാമികളുടെ ഒരു എഴുത്ത്</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>326-330</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പരിശുദ്ധിതന്നെ ബലം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>യതീശ്വരാനന്ദസ്വാമികള്‍</author>
+				<page>330-333</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ ശ്രീസാരദാദേവി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>333-336</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശിവന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>വി. കെ. നാരായണഭട്ടതിരി</author>
+				<page>336-339</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണാനന്ദം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>339-341</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ജ്ഞാനയോഗം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>342-345</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അദ്ധ്യാത്മവിദ്യാലയം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>345-349</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>നിര്‍മ്മലചരിതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>350-352</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തുളസീസുഗന്ദം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>352-354</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പരമഭക്തനായ പട്ടണത്തുപ്പിള്ള</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>354-361</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകചൂഡാമണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>361-362</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പുസ്തകാഭിപ്രായം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>362-363</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്വാമി നിര്‍മ്മാനന്ദക്ഷേത്രം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>363-364</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>#Data not entered
+		</issue>
 		<issue inum="11" month="08-09" year="1939">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -20293,7 +20275,7 @@
 				<page>441-442</page>
 			</entry>
 		</issue>
-	</volume> #Data not entered for issue 10
+	</volume>
 	<volume vnum="25"> 
 		<issue inum="01" month="10-11" year="1939">
 			<entry>
@@ -20493,114 +20475,108 @@
 		</issue>
 		<issue inum="03" month="12" year="1939">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>081-081</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പ്രണാമം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>081-081</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശുഭോദയം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>082-085</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണഭക്തസംഘം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>086-088</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീനിര്‍മ്മലാനന്ദസ്വാമികളുടെ സംഭാഷണക്കുറിപ്പുകള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>089-096</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശരണാഗതന്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>096-097</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീസ്വാമി നിര്‍മ്മലാനന്ദജി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>098-102</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമല്‍ തുരീയാനന്ദസ്വാമികളുടെ സംഭാഷണം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>102-104</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീശബരിഗിരീശദശകം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ഗോപി</author>
+				<page>104-106</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അദ്ധ്യാത്മജീവിതത്തിലെ വിജയം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി യതീശ്വരാനന്ദ</author>
+				<page>106-108</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീനിര്‍മ്മലാനന്ദക്ഷേത്ര പ്രതിഷ്ഠാമഹോത്സവം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>108-112</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണാനന്ദം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>112-113</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ജ്ഞാനയോഗം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>114-117</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകാചൂഡാമണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>117-119</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ ശ്രീസാരദാദേവീധ്യാനം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി അഭേദാനന്ദ</author>
+				<page>119-119</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പുസ്തകാഭിപ്രായം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>120-120a</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>നാനാവാര്‍ത്ത</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>120a-120a</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue> #Data not entered
+		</issue>
 		<issue inum="04" month="01-02" year="1940">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -21309,7 +21285,7 @@
 				<page>431-432</page>
 			</entry>
 		</issue>
-	</volume> #Data not entered for issue 3
+	</volume> 
 	<volume vnum="26">
 		<issue inum="01" month="10-11" year="1940">
 			<entry>
@@ -24947,84 +24923,36 @@
 			<entry>
 				<title>മാതൃദര്‍ശനം</title>
 				<feature></feature>
-				<author></author>
+				<author>ഗോപി</author>
 				<page>157-160</page>
 			</entry>
 			<entry>
 				<title>ഒരു നല്ല ഹിന്ദുവും ഒരു നല്ല മഹമ്മദനും</title>
 				<feature></feature>
 				<author></author>
-				<page>160-168</page>
+				<page>160-170</page>
 			</entry>
 			<entry>
 				<title>സ്ത്രീ വിദ്യാഭ്യാസം</title>
 				<feature></feature>
 				<author>സ്വാമി വിവേകാനന്ദ</author>
-				<page>169-172</page>
+				<page>171-174</page>
 			</entry>
 			<entry>
 				<title>പ്രാര്‍ത്ഥന</title>
 				<feature></feature>
 				<author></author>
-				<page>172-174</page>
+				<page>174-176</page>
 			</entry>
 			<entry>
 				<title>ഗ്രന്ഥാവലോകനം</title>
 				<feature></feature>
 				<author></author>
-				<page>175-178</page>
+				<page>177-180</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue> #Check data entry
-	</volume>#Check issue 11-12 data entry
-	<volume vnum="33"> #issue 11-12 missing
+		</issue>
+	</volume>
+	<volume vnum="33">
 		<issue inum="01-02" month="10-12" year="1947">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -25373,115 +25301,73 @@
 		</issue>
 		<issue inum="11-12" month="08-09" year="1948">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>162-162</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണസൂക്തികള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>162-162</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണദേവന്റെ തിരുവായ്മൊഴി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>163-165</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>കാളീഭഗവതി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പി. എസ്. വാസുദേവശര്‍മ്മ</author>
+				<page>166-173</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തൈത്തിരീയോപനിഷത്ത്</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ബ്രഹ്മാനന്ദവല്ലി</author>
+				<page>174-176</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ദേവീസ്തുതി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>176-181</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അഘോരമണിദേവി അഥവാ ഗോപാലമാതാവ്</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>181-187</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമൂകാംബികാ പഞ്ചരത്നസ്തോത്രം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>188-188</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തിരുവനന്തപുരം ശ്രീരാമകൃഷ്ണാശ്രമം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>189-190</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>മഹാത്മാ ഗാന്ധി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പി. കെ. ജി.</author>
+				<page>191-192</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശീലത്തിന്റെ മഹിമ</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പി. കെ. ഗോവിന്ദപ്പിള്ള</author>
+				<page>193-193</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>#Data not entered 
-	</volume> #Data not entered for issue 11-12
+		</issue>
+	</volume>
 	<volume vnum="34">  
 		<issue inum="01-02" month="10-12" year="1948">
 			<entry>
@@ -25683,114 +25569,60 @@
 		</issue>
 		<issue inum="07-08" month="04-06" year="1949">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>065-065</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പ്രണാമം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>065-065</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തിരുവായ്മൊഴി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>066-070</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്വാമി വിവേകാനന്ദന്‍ പാശ്ചാത്യദേശത്ത്</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി അതുലാനന്ദ</author>
+				<page>070-077</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തൈത്തിരീയോപനിഷത്ത്</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ബ്രഹ്മാനന്ദവല്ലി</author>
+				<page>077-079</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യോഗിന്‍-മാ</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>080-086</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ദിവ്യജീവിതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>086-093</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>മനസ്സിനോട്</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>കെ. പി. കേശവപിള്ള</author>
+				<page>093-095</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഗ്രന്ഥാവലോകനം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പി. കൃഷ്ണയ്യര്‍</author>
+				<page>095-096</page>
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue>#Data not entered 
+		</issue>
 		<issue inum="09-10" month="06-08" year="1949">
 			<entry>
 				<title>പ്രബുദ്ധകേരളം</title>
@@ -25903,7 +25735,7 @@
 				<page>159-160</page>
 			</entry>
 		</issue>
-	</volume> #Data not entered for issue 07-08
+	</volume>
 	<volume vnum="35">
 		<issue inum="01" month="05-06" year="1950">
 			<entry>
@@ -27982,7 +27814,13 @@
 				<title>ഹിന്ദുധര്‍മ്മത്തിന്റെകര്‍മ്മം</title>
 				<feature></feature>
 				<author>പുത്തേഴത്തു രാമന്‍മേനോന്‍</author>
-				<page>315-316</page>
+				<page>315-321</page>
+			</entry>
+			<entry>
+				<title>മാതൃദേവീശതജന്മോത്സവം</title>
+				<feature></feature>
+				<author></author>
+				<page>322-324</page>
 			</entry>
 		</issue>
 		<issue inum="09" month="09" year="1952">
@@ -27996,7 +27834,13 @@
 				<title>അമൃതവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page>325-331</page>
+				<page>325-327</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദ സൂക്തികള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>328-331</page>
 			</entry>
 			<entry>
 				<title>ഉപദേശസാഹസ്രി</title>
@@ -28064,7 +27908,13 @@
 				<title>വിവേകാനന്ദസൂക്തികള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page>366-375</page>
+				<page>366-369</page>
+			</entry>
+			<entry>
+				<title>ഉപദേശസാഹസ്രി</title>
+				<feature></feature>
+				<author></author>
+				<page>369-370</page>
 			</entry>
 			<entry>
 				<title>ജഗന്മാതൃപൂജയും ഭാരതീയരും</title>
@@ -28227,16 +28077,28 @@
 				<page>466-468</page>
 			</entry>
 			<entry>
+				<title>ശ്രീ വിവേകാനന്ദസ്വാമികളുടെ കത്തുകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>468-470</page>
+			</entry>
+			<entry>
+				<title>ശ്രീ മാതൃദേവീസ്മരണകള്‍</title>
+				<feature></feature>
+				<author>കുമുദബന്ധുസേനന്‍</author>
+				<page>470-476</page>
+			</entry>
+			<entry>
 				<title>സുന്ദരമൂര്‍ത്തി നായനാര്‍</title>
 				<feature></feature>
 				<author>ശ്രീകണ്ഠാനന്ദസ്വാമികള്‍</author>
-				<page>468-472</page>
+				<page>476-480</page>
 			</entry>
 			<entry>
 				<title>ഈശ്വരനും സയന്‍സും</title>
 				<feature></feature>
 				<author>കെ. ആര്‍ നമ്പൂതിരി R. B. V. മാവേലിക്കര</author>
-				<page>472-474</page>
+				<page>480-482</page>
 			</entry>
 		</issue>
 	</volume>
@@ -42578,7 +42440,13 @@
 				<title>ശിവാനന്ദവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page>202-202</page>
+				<page>202-205</page>
+			</entry>
+			<entry>
+				<title>ആത്മവിശ്വാസം</title>
+				<feature></feature>
+				<author></author>
+				<page>205-208</page>
 			</entry>
 			<entry>
 				<title>ഭവതാരിണീസ്തവം</title>
@@ -42589,8 +42457,8 @@
 			<entry>
 				<title>കര്‍മ്മണ്യേവാധികാരസ്തേ</title>
 				<feature></feature>
-				<author>കെ. രാഘവന്‍ തിരുമുല്പ്പാടു്</author>
-				<page>209-212</page>
+				<author>കെ. രാഘവന്‍ തിരുമുല്പാടു്</author>
+				<page>209-211</page>
 			</entry>
 			<entry>
 				<title>അത്യദ്ഭുതസത്യങ്ങള്‍</title>
@@ -76715,6 +76583,30 @@
 				<page>480-480</page>
 			</entry>
 			<entry>
+				<title>ശ്രീ കൃഷ്ണന്‍</title>
+				<feature></feature>
+				<author>ത്യാഗീശാനന്ദസ്വാമികള്‍</author>
+				<page>481-482</page>
+			</entry>
+			<entry>
+				<title>ദൈവസാന്നിദ് ധ്യം</title>
+				<feature></feature>
+				<author>കെ. വി. പരമേശ്വരന്‍</author>
+				<page>482-482</page>
+			</entry>
+			<entry>
+				<title>സ്വാമിജിയുടെ ഭാരതപരിക്രമണം</title>
+				<feature></feature>
+				<author>ഒ. കെ. കെ. പണിക്കര്‍</author>
+				<page>483-486</page>
+			</entry>
+			<entry>
+				<title>ഭഗവാന്‍ ശ്രീരാമകൃഷ്ണനും ഭാഗവതദര്‍നവും</title>
+				<feature></feature>
+				<author>പ്രൊഫ. പി. ആര്‍. നായര്‍</author>
+				<page>487-490</page>
+			</entry>
+			<entry>
 				<title>മുദ്രയും മുഖമുദ്രയും</title>
 				<feature></feature>
 				<author>പ്രശാന്താനന്ദസ്വാമി</author>
@@ -92923,7 +92815,7 @@
 				<page>334-337</page>
 			</entry>
 			<entry>
-				<title>അമ്മയുടെ തുരന്ന മനസ്സും വലിയ ഹൃദയവും</title>
+				<title>അമ്മയുടെ തുറന്ന മനസ്സും വലിയ ഹൃദയവും</title>
 				<feature></feature>
 				<author>ഡോ. ഇ. പി. അരവിന്ദാക്ഷപിഷാരോടി</author>
 				<page>338-338</page>
@@ -92962,28 +92854,28 @@
 				<title>ഭാഗവതത്തിലെ കലിയുഗവര്‍ണ്ണന</title>
 				<feature></feature>
 				<author>പ്രൊഫ. ടോണി മാത്യു</author>
-				<page>356-</page>
+				<page>356-357</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പുസ്തകാഭിപ്രായം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>എം. എം. ബാലകൃഷ്ണന്‍</author>
+				<page>358-358</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്വാമി വിവേകാനന്ദന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>359-359</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വാര്‍ത്തകള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>360-360</page>
 			</entry>
-		</issue>#Check data entry
-	</volume> #Check issue 09 data entry
+		</issue>
+	</volume>
 	<volume vnum="90">
 		<issue inum="10" month="10" year="2004">
 			<entry>
@@ -102918,7 +102810,7 @@
 				<title>ഷോഡശീപൂജ ഒരു അപൂര്‍വ്വ ദാമ്പത്യത്തിലെ ദിവ്യാനുഭവം</title>
 				<feature></feature>
 				<author>ഡി. മായ</author>
-				<page>025-029</page>
+				<page>025-028</page>
 			</entry>
 			<entry>
 				<title>ബഹുരൂപി വിവേകാനന്ദ</title>
@@ -104859,335 +104751,607 @@
 				<page>420-420</page>
 			</entry>
 		</issue>
-		<issue inum="10" month="10" year="2013"> 
+		<issue inum="10" month="10" year="2013">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>421-421</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അമൃതവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>421-421</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>422-422</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകാനന്ദസന്ദേശം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ശ്രീമത് സ്വാമി രംഗനാഥാനന്ദജി മഹാരാജ്</author>
+				<page>423-426</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകാനന്ദസ്വാമികളുടെവിശ്വരൂപം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സിദ്ധിനാഥാനന്ദസ്വാമി</author>
+				<page>427-434</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്വാമി വിവേകാനന്ദനനും 19-20 നൂറ്റാണ്ടുകളില്‍ ഭാരതത്തിനുണ്ടായ ഉണര്‍വ്വും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി ഭജനാനന്ദ</author>
+				<page>435-439</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>മനുഷ്യസ്നേഹിയായ സ്വാമി വിവേകാനന്ദന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രവ്രാജികാ തപപ്രാണാ</author>
+				<page>440-442</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അമ്മയും മകനും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രവ്രാജികാ അജയപ്രാണാ</author>
+				<page>443-448</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഉപനിഷത്തുകളും വിവേകാനന്ദസ്വാമികളും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				<page>449-454</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിശ്വസഞ്ചാരിയായ വിവേകാനന്ദന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സുകുമാര്‍  അഴീക്കോട്</author>
+				<page>455-458</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഒരേയൊരു വിവേകാനന്ദന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>എസ്. രമേശന്‍നായര്‍</author>
+				<page>459-462</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യുവാക്കളുടെ ആദര്‍ശപുരുഷന്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പി. പരമേശ്വരന്‍</author>
+				<page>463-469</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പൌരസ് ത്യ-പാഞ്ചാത്യ സംയോജനം വിവേകാനന്ദനില്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രൊഫ. എസ്. രാധാകൃഷ്ണന്‍</author>
+				<page>470-476</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>മതേതരത്വം ആധുനികഭാരതത്തില്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>എ. വി. ഗോപാലകൃഷ്ണവാര്യര്‍</author>
+				<page>477-481</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഭഗിനി നിവേദിത (മാര്‍ഗരറ്റ്  നൊബിള്‍) ഒരു പവിത്രസ് മൃതി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രൊഫ. ബി. സുലോചനാ നായര്‍</author>
+				<page>482-485</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സമഗ്രവ്യക്തിത്വം : സ്വാമിജിയുടെ ജീവിതവും വീക്ഷണവും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ഡോ. ടി. വി. മുരളീവല്ലഭന്‍</author>
+				<page>486-492</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകാനന്ദദര്‍ശനവും മാനവികതയും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ഫാ. എസ്. പൈനാടത്ത് എസ്. ജെ.</author>
+				<page>493-495</page>										//page_no:496 is advertisement 
+			</entry>														
+			<entry>
+				<title>ദര്‍ശനഭിക്ഷ</title>                                   
+				<feature></feature>
+				<author>കരിമ്പുഴ രാമചന്ദ്രന്‍</author>					
+				<page>497-497</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>Saving the Earth</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>‍</author>
+				<page>498-498</page>
 			</entry>
-		</issue> #Data Not Entered
+			<entry>
+				<title>ആധുനികഭാരതവും ആധുനികശാസ് ത്രവും</title>
+				<feature></feature>
+				<author>ഡോ. ആര്‍. ഗോപിമണി‍</author>
+				<page>499-506</page>
+			</entry>
+			<entry>
+				<title>ഭാവിവിനാശം മുന്‍കൂട്ടികണ്ട മഹര്‍ഷിവര്യന്‍</title>
+				<feature></feature>
+				<author>സി. ആര്‍. നീലകണ്ഠന്‍</author>
+				<page>507-509</page>										//page_no:510 is advertisement 
+			</entry>
+			<entry>
+				<title>തസ്യ ദാസ, ദാസോഹം</title>
+				<feature></feature>
+				<author>ഡോ. ഡി. മായ</author>
+				<page>511-514</page>
+			</entry>
+			<entry>
+				<title>വിവേകാനന്ദ സന്ദേശവാഹകനായ നേതാജി സുഭാഷ് ചന്ദ്രബോസ്</title>
+				<feature></feature>
+				<author>ബ്രഹ്മചാരി ശിവേശചൈതന്യ</author>
+				<page>515-521</page>										//page_no:522 is advertisement
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദനും മഹാകവി കുമാരനാശാനും</title>
+				<feature></feature>
+				<author>ഡോ. ഗീതാ സുരാജ്</author>
+				<page>523-526</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദനെ സ്മരിക്കുമ്പോള്‍</title>
+				<feature></feature>
+				<author>ഡോ. കെ. കെ. എന്‍. കുറുപ്പ്</author>
+				<page>527-529</page>										//page_no:530 is advertisement
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്‍ കല്പതരുവിന്റെ നാട്ടില്‍</title>
+				<feature></feature>
+				<author>ഡോ. എം. ലക്ഷ്മീകുമാരി</author>
+				<page>531-536</page>										//page_no:537 and 538 is advertisement
+			</entry>
+			<entry>
+				<title>സ്ത്രീത്വാദര്‍ശം സ്വാമിജിയുടെ‍ വീക്ഷണത്തില്‍</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>539-543</page>										//page_no:544 is advertisement
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദ‍നും സംഗീതവും</title>
+				<feature></feature>
+				<author>ഡോ. മഞ്ജു ഗോപാല്‍</author>
+				<page>545-547</page>										//page_no:548 is advertisement
+			</entry>
+			<entry>
+				<title>സംസ്കൃതവും സ്വാമി വിവേകാനന്ദ‍നും</title>
+				<feature></feature>
+				<author>ഡോ. രമാദേവി അമ്മ</author>
+				<page>549-552</page>
+			</entry>
+			<entry>
+				<title>വിദ്യാഭ്യാസം വിവേകാനന്ദദൃഷ്ടിയില്‍</title>
+				<feature></feature>
+				<author>എ. വി. ഹരിശങ്കര്‍</author>
+				<page>553-557</page>										//page_no:558 is advertisement
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്റെ സാമ്പത്തികദര്‍ശനം സ്വതന്ത്രഭാരതത്തില്‍</title>
+				<feature></feature>
+				<author>ഡോ. എം. സി. ദിലീപ്കുമാര്‍</author>
+				<page>559-562</page>
+			</entry>
+			<entry>
+				<title>ഒരു വേദാന്തിയുടെ തൊഴിലാളിവര്‍ഗസങ്കല്പം</title>
+				<feature></feature>
+				<author>പ്രൊഫ. പി. ആര്‍. ഹരികുമാര്‍</author>
+				<page>563-567</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദനും പാശ്ചാത്യചിന്തയും</title>
+				<feature></feature>
+				<author>പ്രൊഫ. പി. ജെ. സണ്ണി</author>
+				<page>568-574</page>
+			</entry>
+			<entry>
+				<title>സ്വാമി വിവേകാനന്ദന്റെ സ്വാധീനം മലയാളസാഹിത്യത്തില്‍</title>
+				<feature></feature>
+				<author>ശോഭാ പ്രസാദ്</author>
+				<page>575-581</page>										//page_no:582 to 596 is advertisement
+			</entry>
+		</issue>
 		<issue inum="11" month="11" year="2013">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>591-591</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അമൃതവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>591-591</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>592-592</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ആത്മദര്‍ശനം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സദ്ഭാവാനന്ദസ്വാമി</author>
+				<page>593-594</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യുവാക്കളോട്</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>595-595</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകചൂഡാമണി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>വിവ. എസ്. വി. ഉണ്ണികൃഷ്ണന്‍</author>
+				<page>596-603</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				<page>604-606</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ ശങ്കരാചാര്യരുടെ സൗന്ദര്യലഹരി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി തപസ്യാനന്ദ</author>
+				<page>607-617</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ലക്ഷ്യവും സാധനയും</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>കെ. വി. രാധാകൃഷ്ണന്‍</author>
+				<page>618-621</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>തൃപ്പാദ ഭക്തിപ്രാര്‍ത്ഥന</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പാലിയത്ത് ഭവാനികുഞ്ഞമ്മ</author>
+				<page>622-622</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യുക്തിവാദിയുടെ ചോദ്യങ്ങള്‍ ആത്മീയവാദിയുടെ മറുപടികള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>623-625</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വായനക്കാരുടെ അഭിപ്രായങ്ങള്‍</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രദീപ് നമ്പൂതിരി</author>
+				<page>626-626</page>                                       //doubt about page num
 			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-			<entry>
-				<title></title>
-				<feature></feature>
-				<author></author>
-				<page></page>
-			</entry>
-		</issue> #Data not entered
+		</issue>
 		<issue inum="12" month="12" year="2013">
 			<entry>
-				<title></title>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>631-631</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>അമൃതവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>631-631</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>632-632</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്വാമി വിവേകാനന്ദന്റെ സ്വരാജ്യസ്നേഹം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>633-634</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ മാതൃദേവിക്ക് സിസ്റ്റര്‍ നിവേദിതയുടെ ഒരു കത്ത്</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>635-635</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വിവേകചൂഡാമണി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>വിവ. എസ്. വി. ഉണ്ണികൃഷ്ണന്‍</author>
+				<page>636-643</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				<page>644-646</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീ ശങ്കരാചാര്യരുടെ സൗന്ദര്യലഹരി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>സ്വാമി തപസ്യാനന്ദ</author>
+				<page>647-654</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>സ്ത്രീത്വാദര്‍ശത്തിന്റെ സജീവമൂര്‍ത്തി ശ്രീശാരദാദേവി</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>നിഖിലാത്മാനന്ദസ്വാമി</author>
+				<page>655-661</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വീട്ടില്‍നിന്നു തുടങ്ങുക</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രൊഫ. വി. വൈദ്യലിംഗശര്‍മ്മ</author>
+				<page>662-664</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ശ്രീമദ് ഭഗവദ്ഗീത</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				<page>665-668</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>പ്രേമാനന്ദവന്ദനം</title>
 				<feature></feature>
-				<author></author>
-				<page></page>
+				<author>ബ്രഹ്മചാരി പ്രാണചൈതന്യ</author>
+				<page>669</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>വാര്‍ത്തകള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>670-670</page>
 			</entry>
 			<entry>
-				<title></title>
+				<title>ഫൈലിന്‍ ചുഴലിക്കാറ്റ് രാമകൃഷ്ണ മിഷന്റെ ദുരിതാശ്വാസപ്രവര്‍ത്തനം ഹ്രസ്വവിവരണം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>671-671</page>
 			</entry>
-			<entry>
-				<title></title>
+		</issue>
+	</volume>
+	<volume vnum="100">
+	    <issue inum="01" month="01" year="2014">
+	        <entry>
+				<title>പ്രബുദ്ധകേരളം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>001-001</page>
 			</entry>
-			<entry>
-				<title></title>
+	        <entry>
+				<title>അമൃതവാണി</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>001-001</page>
 			</entry>
-			<entry>
-				<title></title>
+	        <entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author>വാമാചാരനിന്ദ</author>
+				<page>002-002</page>
+			</entry>
+	        <entry>
+				<title>സത്യദര്‍ശനം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>003-005</page>
+			</entry>
+	        <entry>
+				<title>വിവേകാചൂഡാമണി</title>
+				<feature></feature>
+				<author>എസ്. വി. ഉണ്ണികൃഷ്ണന്‍</author>
+				<page>006-013</page>
+			</entry>
+	        <entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ജീവചരിത്ര ക്കുറിപ്പ്</title>
+				<feature></feature>
+				<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				<page>014-019</page>
+			</entry>
+	        <entry>
+				<title>ഹേ സാധകാ,സ്വാധ്യായല്‍ നീ വിട്ടുവീഴ്ച വരുത്തരുതേ</title>
+				<feature></feature>
+				<author>ആചാര്യ എം. ആര്‍. രാജേഷ്</author>
+				<page>020-021</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീരാമകൃഷണപാദങ്ങളില്‍</title>
+				<feature></feature>
+				<author>പ്രൊഫ. തൃക്കൊടിത്താനം ഗോപിനാഥന്‍ നായര്‍</author>
+				<page>022-022</page>
+			</entry>
+	        <entry>
+				<title>സ്വാമിജി പാശ്ചാത്യര്‍ക്കു നല് കിയ സന്ദേശം</title>
+				<feature></feature>
+				<author>ശ്രീ അതുലാനന്ദസ്വാമികള്‍</author>
+				<page>023-030</page>
+			</entry>
+	        <entry>
+				<title>കഴിഞ്ഞ മാസത്തില്‍ അവസാനിച്ച ശ്രീശങ്കരാചാര്യരുടെ സൌന്ദര്യലഹരിയുടെ അനുബന്ധം</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>031-032</page>
 			</entry>
-			<entry>
-				<title></title>
+	        <entry>
+				<title>സത്യാന്വേഷണം ശാസ്ത്രത്തിലും മതത്തിലും സ്വാമി വിവേകാനന്ദാന്റെ വീക്ഷണം</title>
+				<feature></feature>
+				<author>ഡോ. ജയ ലാല്‍മോഹന്‍</author>
+				<page>033-035</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീമദ് ഭഗവദ്ഗീത</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				<page>036-039</page>
+			</entry>
+	        <entry>
+				<title>വാര്‍ത്തകള്‍</title>
 				<feature></feature>
 				<author></author>
-				<page></page>
+				<page>040-040</page>
 			</entry>
-		</issue> #Data not entered
-	</volume> #Data not entered for issues 10, 11 & 12
+	    </issue>
+	    <issue inum="02" month="02" year="2014">
+	        <entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>041-041</page>
+			</entry>
+	        <entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>041-041</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>042-042</page>
+			</entry>
+	        <entry>
+				<title>കാരുണ്യഹൃദയം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>043-045</page>
+			</entry>
+	        <entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>വിവ. എസ്. വി. ഉണ്ണികൃഷ്ണന്‍</author>
+				<page>046-050</page>
+			</entry>
+	        <entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ജീവചരിത്രക്കുറിപ്പ്</title>
+				<feature></feature>
+				<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				<page>051-054</page>
+			</entry>
+	        <entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				<page>055-058</page>
+			</entry>
+	        <entry>
+				<title>റാബിയാ അല്‍ അദാവിയാ എട്ടാം നൂറ്റാണ്ടില്‍ ഇറാക്കില്‍ ജീവിച്ചിരുന്ന ഒരു വിശുദ്ധ</title>
+				<feature></feature>
+				<author></author>
+				<page>059-063</page>
+			</entry>
+	        <entry>
+				<title>സ്വാമിജി പാശ്ചാത്യര്‍ക്കു നല്‍കിയ സന്ദേശം</title>
+				<feature></feature>
+				<author>ശ്രീ അതുലാനന്ദസ്വാമികള്‍</author>
+				<page>064-069</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീശങ്കരാചാര്യരുടെ സൗന്ദര്യലഹരിയുടെ അനുബന്ധം 2 - സൃഷ്ടിചക്രവും സംഹാരചക്രവും</title>
+				<feature></feature>
+				<author></author>
+				<page>070-070</page>
+			</entry>
+	        <entry>
+				<title>സത്യാന്വേഷണവും ശാസ്ത്രത്തിലും മതത്തിലും സ്വാമി വിവേകാനന്ദന്റെ വീക്ഷണം</title>
+				<feature></feature>
+				<author>ഡോ. ജയ ലാല്‍മോഹന്‍</author>
+				<page>071-075</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീമദ് ഭഗവദ്ഗീത</title>
+				<feature></feature>
+				<author>പ്രശാന്താനന്ദസ്വാമി</author>
+				<page>076-079</page>
+			</entry>
+	        <entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>080-080</page>
+			</entry>
+	    </issue>
+	    <issue inum="03" month="03" year="2014">
+	        <entry>
+				<title>പ്രബുദ്ധകേരളം</title>
+				<feature></feature>
+				<author></author>
+				<page>081-081</page>
+			</entry>
+	        <entry>
+				<title>അമൃതവാണി</title>
+				<feature></feature>
+				<author></author>
+				<page>081-081</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീരാമകൃഷ്ണവചനാമൃതം</title>
+				<feature></feature>
+				<author></author>
+				<page>082-082</page>
+			</entry>
+	        <entry>
+				<title>യുഗാവതാരം</title>
+				<feature></feature>
+				<author>സദ്ഭവാനന്ദസ്വാമി</author>
+				<page>083-085</page>
+			</entry>
+	        <entry>
+				<title>വിവേകചൂഡാമണി</title>
+				<feature></feature>
+				<author>വിവ. എസ്. വി. ഉണ്ണികൃഷ്ണന്‍</author>
+				<page>086-092</page>
+			</entry>
+	        <entry>
+				<title>യോഗവാസിഷ്ഠരാമായണം</title>
+				<feature></feature>
+				<author>സ്വപ്രഭാനന്ദസ്വാമി</author>
+				<page>093-096</page>
+			</entry>
+	        <entry>
+				<title>സ്വാമി തപസ്യാനന്ദ ജീവചരിത്രക്കുറിപ്പ്</title>
+				<feature></feature>
+				<author>സ്വാമി ത്യാഗാനന്ദ</author>
+				<page>097-102</page>
+			</entry>
+	        <entry>
+				<title>കൃതജ്ഞതയുടെ മര്‍മ്മരങ്ങള്‍</title>
+				<feature></feature>
+				<author>ബ്രഹ്മചാരി ശിവേശചൈതന്യ</author>
+				<page>103-103</page>
+			</entry>
+	        <entry>
+				<title>ശ്രീമദ് ബ്രഹ്മാനന്ദസ്വാമികള്‍</title>
+				<feature></feature>
+				<author>അമൃത</author>
+				<page>104-111</page>
+			</entry>
+	        <entry>
+				<title>ഭക്തി</title>
+				<feature></feature>
+				<author>ഡോ. വി. രാമന്‍കുട്ടി</author>
+				<page>112-115</page>
+			</entry>
+	        <entry>
+				<title>അവതാരവരിഷ്ഠന്‍</title>
+				<feature></feature>
+				<author>എം. ലക്ഷ്മീകുമാരി</author>
+				<page>115-119</page>
+			</entry>
+	        <entry>
+				<title>വാര്‍ത്തകള്‍</title>
+				<feature></feature>
+				<author></author>
+				<page>120-120</page>
+			</entry>
+		</issue>	
+	</volume>	
 </pke>
